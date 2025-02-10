@@ -2,6 +2,8 @@
 
 This shows a super simple Pythons server using Streamlit to create a chatbot.
 
+![](./images/chat-screenshot.png)
+
 It's a fork of [romilandc/streamlit-ollama-llm](https://github.com/romilandc/streamlit-ollama-llm/tree/main).
 
 Libraries:
